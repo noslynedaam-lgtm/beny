@@ -1,0 +1,6 @@
+{
+  "name": "Planilha Fiscal de Produtos — Supermercado GO 2026",
+  "description": "Planilha e cadastro fiscal completo com 78 produtos de supermercado em Goiás com NCM, CEST, CFOP, CSTs, ICMS 19% (Lei 22.460/23), Protege GO, PIS/COFINS e IBS/CBS da Reforma Tributária 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
